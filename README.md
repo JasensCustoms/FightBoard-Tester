@@ -20,7 +20,8 @@ The JST connectors are "reversed" from those on the fighting board so you would 
 As of 2.4.25 - this is an untested design.
 
 
-#License
+# License
+
 This design is licensed under CC-NC-BY-SA-4.0. Details can be found here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
 You are free to:

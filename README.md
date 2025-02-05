@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c70492e7-fd8f-4250-90b6-e0bec71d82e6)
+
 # FightBoard-Tester
 A Simple Design to Test common form factor fighting boards. This connects directly across the common 20 pin header as well as the JST PH-5 and PH-4 connectors for common connectors. Each possible button input is on a dipswitch connecting GROUND to the signal in order to test behaviors on boot in any combination required. Ideally, the LEDs for the corresponding input, light up as well when the dipswitch is in the "ON" position indicating a button is held down.
 
